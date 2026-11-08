@@ -22,3 +22,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Runtime product data (JSON store)
+/storage/app/products.json
+/storage/app/private/products.json
